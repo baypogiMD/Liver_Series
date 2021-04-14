@@ -1,4 +1,4 @@
-# Liver_Series
+# Liver Series
 
 * Data visualization
 * Statistical inference
