@@ -1,8 +1,8 @@
 # Liver_Series
 
-<ul> Data visualization
-<ul> Statistical inference
-<ul> Machine/Deep learning
+* Data visualization
+* Statistical inference
+* Machine/Deep learning
 
 Dataset: Primary biliary cirrhosis clinical trial from Mayo Clinic conducted between 1974-1984.
 
